@@ -2,7 +2,7 @@
 layout: post
 title:  "How to plan for a solo Darjeeling trip"
 categories: [ Travel, solo ]
-image: assets/images/toy_train.jpg
+image: assets/images/toy_train.png
 ---
 
 # Places to visit
