@@ -1,4 +1,4 @@
-title: "Affiliates"
+title: "Harshit Kumar"
 email: harshit211997@gmail.com
 formspree_url: "https://formspree.io/f/mknkdvlj"
 timezone: UTC
@@ -8,7 +8,7 @@ baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-author: Sal
+author: Harshit
 paginate: 30
 disqus: 'demowebsite'
 locale: en_us
@@ -29,18 +29,17 @@ ganalytics: G-352KMFB16K
 authors:
   harshit:
     name: Harshit
-    display_name: Harshit
+    display_name: Harshit Kumar
     avatar: 'assets/images/sal.png'
     email: harshit211997@gmail.com
-    web: https://www.wowthemes.net/category/jekyll-themes/
-    twitter: https://twitter.com/wowthemesnet
-    description: "Software Engineer"
+    web: https://www.harshitkumar.in/
+    twitter: https://twitter.com/wellidonthaveone
+    description: "Software Engineer at GitHub, author of this blog, ex game developer"
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/harshit211997/
+  twitter: https://twitter.com/wellidonthaveone
 
 # Plugins
 plugins: 

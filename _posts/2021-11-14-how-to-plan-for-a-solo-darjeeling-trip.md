@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "How to plan for a solo Darjeeling trip"
+author: harshit
 categories: [ Travel, solo ]
 image: assets/images/toy_train.png
 ---
